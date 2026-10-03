@@ -1,0 +1,5 @@
+numpy
+sounddevice
+PySide6
+faster-whisper
+evdev
